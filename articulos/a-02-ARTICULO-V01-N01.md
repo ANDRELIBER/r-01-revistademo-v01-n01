@@ -25,7 +25,7 @@ Más recientemente, van Dijk [-@2563-VANDIJK2020] consolidó un modelo teórico 
 
 En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio [@2566-CEPAL2021]. La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso ---calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio--- varían enormemente según el origen socioeconómico del estudiante.
 
-Van Deursen y van Dijk [-@2564-VANDEURSEN2019; [-@2563-VANDIJK2020] mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
+Van Deursen y van Dijk [-@2564-VANDEURSEN2019; -@2563-VANDIJK2020] mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
 
 ## Metodología
 
@@ -94,7 +94,7 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 
 ## Discusión
 
-Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk -@VANDIJK2020 para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
+Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk [-@2563-VANDIJK2020] para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
 
 El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai [-@2565-HARGITTAI2002] en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
 
@@ -111,3 +111,43 @@ Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de 
 Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.
 
 :::
+
+ - - - - - - - - - - - - - - - - - - - - - - -
+
+# Artículo de prueba para verificar que el parser de gbpublisher reconoce todos los formatos de cita Pandoc y que el filtro Lua preserva el modo correcto en el JATS canónico
+
+## Formato 1: cita básica — normal
+
+La transformación digital impacta en múltiples dimensiones organizacionales [@2564-VANDEURSEN2019]. Este formato ya funcionaba antes del fix y sirve como control.
+
+## Formato 2: supresión de autor `[-@key]`
+
+Como señala van Dijk [-@2563-VANDIJK2020], la transformación digital no debe confundirse con la simple digitalización de procesos. Hargittai [-@2565-HARGITTAI2002] aborda esta distinción en el contexto logístico argentino.
+
+## Formato 3: cita con localizador de página
+
+El fenómeno ha sido estudiado en profundidad [@2564-VANDEURSEN2019, p. 2333-2351]. También se han analizado las competencias necesarias [@2564-VANDEURSEN2019, pp. 2333-2351].
+
+## Formato 4: supresión de autor con localizador `[-@key, p. N]`
+
+Van Deursen [-@2564-VANDEURSEN2019, p. 2333] clasifica los desafíos en tres categorías. Van Deursen [-@2564-VANDEURSEN2019, pp. 2333-2351] analiza el impacto en la actividad contable.
+
+## Formato 5: prefijo textual `[ver @key]`
+
+Para un análisis detallado del contexto regional [ver @2566-CEPAL2021]. Este formato requiere que el parser encuentre el `@` dentro del bloque aunque no sea el primer carácter.
+
+## Formato 6: múltiples citas en un bloque
+
+Diversos autores han abordado la cuestión desde perspectivas complementarias [@2565-HARGITTAI2002; @2562-WARSCHAUER2004]. Este formato ya funcionaba antes del fix.
+
+## Formato 7: múltiples con supresión parcial
+
+Van Dijk y van Deursen [@2563-VANDIJK2020; -@2564-VANDEURSEN2019] coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.
+
+## Formato 8: prefijo textual con múltiples citas
+
+Las estadísticas provinciales disponibles [ver @2566-CEPAL2021; @2565-HARGITTAI2002] ofrecen un marco comparativo útil.
+
+## Formato 9: combinaciones mixtas
+
+La literatura reciente [@2562-WARSCHAUER2004; @2563-VANDIJK2020; -@2566-CEPAL2021] muestra convergencia en los hallazgos principales. Van Deursen [-@2564-VANDEURSEN2019, p. 2333] anticipa varios de estos resultados desde el campo contable.
