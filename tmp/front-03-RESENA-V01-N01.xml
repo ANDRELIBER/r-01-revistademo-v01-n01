@@ -20,6 +20,9 @@
     </article-categories>
     <title-group>
       <article-title>Reseña bibliográfica</article-title>
+      <trans-title-group xml:lang="en">
+        <trans-title>Book Review</trans-title>
+      </trans-title-group>
     </title-group>
     <contrib-group>
       <contrib contrib-type="author" id="a1">
