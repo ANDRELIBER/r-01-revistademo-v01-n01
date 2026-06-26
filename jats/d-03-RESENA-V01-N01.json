@@ -1,0 +1,30 @@
+{
+  "bibjson": {
+    "title": "Reseña bibliográfica",
+    "year": "2026",
+    "month": "junio",
+    "author": [
+      {
+        "name": "Liberatore, Andrea Esther",
+        "orcid_id": "https://orcid.org/0009-0003-9648-5013"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "1853-0028"},
+      {"type": "doi", "id": "10.1787/7a127615-es"}
+    ],
+    "journal": {
+      "title": "Agenda Digital Latinoamericana",
+      "publisher": "Editorial Universidad de San Telmo",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

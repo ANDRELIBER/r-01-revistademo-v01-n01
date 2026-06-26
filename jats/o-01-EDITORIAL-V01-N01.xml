@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260626132545</doi_batch_id>
+      <timestamp>20260626132545</timestamp>
+      <depositor>
+         <depositor_name>Editorial Universidad de San Telmo</depositor_name>
+         <email_address>hola@adl.org</email_address>
+      </depositor>
+      <registrant>Universidad de San Telmo</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Agenda Digital Latinoamericana</full_title>
+            <abbrev_title>Agend. digit. Latinoam.</abbrev_title>
+            <issn media_type="electronic">1853-0028</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Las deudas pendientes de la digitalización en América Latina</title>
+               <original_language_title language="en">The Pending Challenges of Digitalization in Latin America</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Andrea Esther</given_name>
+                  <surname>Liberatore</surname>
+                  <ORCID authenticated="true">https://orcid.org/0009-0003-9648-5013</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">El presente artículo editorial examina críticamente el impacto de la pandemia de COVID-19 como un acelerador involuntario y asincrónico de la transformación tecnológica en América Latina. Se analiza cómo la migración perentoria hacia plataformas virtuales en los sectores educativo, administrativo y sanitario no solo visibilizó, sino que profundizó las fracturas estructurales y las asimetrías socioeconómicas preexistentes en el tejido social de la región. El texto aborda un diagnóstico dicotómico: por un lado, reconoce la expansión cuantitativa de la conectividad digital y el aumento en las tasas de penetración de Internet en el escenario pospandemia; por otro lado, denuncia la persistencia de la denominada "brecha digital de segundo nivel". Este fenómeno se manifiesta en las limitaciones materiales de acceso (dispositivos inadecuados, conexiones móviles restrictivas) y en la carencia de competencias digitales básicas en los sectores de menores ingresos, donde el costo de la banda ancha fija llega a representar, según datos de la CEPAL, un prohibitivo 14% del ingreso mensual. El argumento central postula que la digitalización desvinculada de políticas públicas integrales e interseccionales —que articulen simultáneamente la infraestructura, la formación y el diseño institucional— actúa como un vector que reproduce y amplifica las desigualdades históricas de género, etnia, edad y territorio. Finalmente, se introduce la estructura del número actual de la revista, el cual reúne contribuciones académicas que abordan esta problemática bajo la premisa de que la transformación digital no puede ser aislada de sus condiciones materiales y simbólicas de despliegue, promoviendo así un debate urgente frente al determinismo tecnológico.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">This editorial article critically examines the impact of the COVID-19 pandemic as an involuntary and asynchronous catalyst for technological transformation in Latin America. It analyzes how the peremptory migration toward virtual platforms within the educational, administrative, and healthcare sectors not only exposed but also deepened pre-existing structural fractures and socioeconomic asymmetries within the region's social fabric. The text presents a dichotomous diagnosis: on one hand, it acknowledges the quantitative expansion of digital connectivity and the rise in Internet penetration rates in the post-pandemic landscape; on the other hand, it denounces the persistence of the so-called "second-level digital divide." This phenomenon manifests through material constraints in access (inadequate devices, restrictive mobile data plans) and a deficiency in core digital skills among lower-income sectors, where fixed broadband costs average—according to ECLAC data—a prohibitive 14% of monthly income. The central argument posits that digitalization detached from comprehensive, intersectional public policies—which simultaneously address infrastructure, digital literacy, and institutional design—acts as a vector that reproduces and amplifies historical inequalities rooted in gender, ethnicity, age, and geography. Finally, this text introduces the framework of the current journal issue, which compiles academic contributions addressing this multidimensional problem. These works share the fundamental premise that digital transformation cannot be isolated from the material and symbolic conditions of its deployment, thereby fostering an urgent and necessary debate against technological determinism.</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <doi_data>
+               <doi>10.1787/7a127615-es</doi>
+               <resource content_version="vor" mime_type="text/html">https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

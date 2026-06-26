@@ -1,0 +1,34 @@
+{
+  "bibjson": {
+    "title": "Las deudas pendientes de la digitalización en América Latina",
+    "abstract": "El presente artículo editorial examina críticamente el impacto de la pandemia de COVID-19 como un acelerador involuntario y asincrónico de la transformación tecnológica en América Latina. Se analiza cómo la migración perentoria hacia plataformas virtuales en los sectores educativo, administrativo y sanitario no solo visibilizó, sino que profundizó las fracturas estructurales y las asimetrías socioeconómicas preexistentes en el tejido social de la región. El texto aborda un diagnóstico dicotómico: por un lado, reconoce la expansión cuantitativa de la conectividad digital y el aumento en las tasas de penetración de Internet en el escenario pospandemia; por otro lado, denuncia la persistencia de la denominada "brecha digital de segundo nivel". Este fenómeno se manifiesta en las limitaciones materiales de acceso (dispositivos inadecuados, conexiones móviles restrictivas) y en la carencia de competencias digitales básicas en los sectores de menores ingresos, donde el costo de la banda ancha fija llega a representar, según datos de la CEPAL, un prohibitivo 14% del ingreso mensual. El argumento central postula que la digitalización desvinculada de políticas públicas integrales e interseccionales —que articulen simultáneamente la infraestructura, la formación y el diseño institucional— actúa como un vector que reproduce y amplifica las desigualdades históricas de género, etnia, edad y territorio. Finalmente, se introduce la estructura del número actual de la revista, el cual reúne contribuciones académicas que abordan esta problemática bajo la premisa de que la transformación digital no puede ser aislada de sus condiciones materiales y simbólicas de despliegue, promoviendo así un debate urgente frente al determinismo tecnológico.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "Brecha digital de segundo nivel; América Latina; Políticas públicas; Desigualdad estructural; Transformación digital"
+    ],
+    "author": [
+      {
+        "name": "Liberatore, Andrea Esther",
+        "orcid_id": "https://orcid.org/0009-0003-9648-5013"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "1853-0028"},
+      {"type": "doi", "id": "10.1787/7a127615-es"}
+    ],
+    "journal": {
+      "title": "Agenda Digital Latinoamericana",
+      "publisher": "Editorial Universidad de San Telmo",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}
