@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-id journal-id-type="publisher-id">1853-0028</journal-id>
+    <journal-title-group>
+      <journal-title>Agenda Digital Latinoamericana</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Agend. digit. Latinoam.</abbrev-journal-title>
+    </journal-title-group>
+    <issn pub-type="epub">1853-0028</issn>
+    <publisher>
+      <publisher-loc>Ciudad Autónoma de Buenos Aires, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>book-review</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Reseña bibliográfica</article-title>
+    </title-group>
+    <pub-date pub-type="epub-ppub">
+      <month>06</month>
+      <year>2026</year>
+    </pub-date>
+    <volume>01</volume>
+    <issue>01</issue>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+      <license license-type="open-access">
+        <license-p>CC BY-NC-SA</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>

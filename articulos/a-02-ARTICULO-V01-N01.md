@@ -40,7 +40,7 @@ Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acces
 
 La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.
 
-**Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes)
+::: {.table #TablaNumero1}
 
   -------------------------------------- ------------ ------------ ------------- -------------
   **Indicador**                          **UBA Q1**   **UBA Q5**   **UNAM Q1**   **UNAM Q5**
@@ -58,7 +58,8 @@ La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas
   Acceso simultáneo sin degradación      19,7         82,5         15,3          79,8
   -------------------------------------- ------------ ------------ ------------- -------------
 
-*Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.*
+**Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes). *Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.*
+:::
 
 Los datos revelan una pauta consistente: mientras que los estudiantes del quintil más alto presentan condiciones de acceso material prácticamente universales en ambas universidades, los del quintil más bajo enfrentan restricciones severas en todos los indicadores. La brecha es particularmente pronunciada en la disponibilidad de espacio privado de estudio y en la velocidad de conexión, dos factores que la literatura identifica como determinantes para el aprovechamiento académico de las herramientas digitales.
 
@@ -68,9 +69,11 @@ El análisis de regresión múltiple mostró que las habilidades digitales, medi
 
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.
 
-*\[Insertar Figura 1 aquí\]*
+:::{.figure #Figura1}
+![](media/figura1.png)
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
+:::
 
 ## Experiencias de la brecha: evidencia cualitativa
 
