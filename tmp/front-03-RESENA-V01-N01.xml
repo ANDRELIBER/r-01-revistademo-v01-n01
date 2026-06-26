@@ -12,6 +12,7 @@
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.1787/7a127615-es</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>book-review</subject>
@@ -20,6 +21,21 @@
     <title-group>
       <article-title>Reseña bibliográfica</article-title>
     </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a1">
+        <name>
+          <surname>Liberatore</surname>
+          <given-names>Andrea Esther</given-names>
+        </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0003-9648-5013</contrib-id>
+        <aff>
+          <institution content-type="dept">Departamento de Ciencias de Datos y Tecnología Social</institution>,
+          <institution>Instituto de Estudios sobre Conectividad y Desarrollo Latinoamericano</institution>,
+          <city>Ciudad Autónoma de Buenos Aires</city>,
+          <country>Argentina</country>
+        </aff>
+      </contrib>
+    </contrib-group>
     <pub-date pub-type="epub-ppub">
       <month>06</month>
       <year>2026</year>
