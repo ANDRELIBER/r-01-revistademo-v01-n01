@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 19:27:49
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Reseña bibliográfica
+Autor(es): Liberatore, Andrea Esther
+Archivo:   03-RESENA-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: agendadiglat
+ISSN:            1853-0028
+URL canónica:    https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 1853-0028-agendadiglat-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  1853-0028-agendadiglat-01-01-00001.xml — XML SciELO PS 1.9
+  1853-0028-agendadiglat-01-01-00001.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   presentes
+  Style errors: presentes
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org
