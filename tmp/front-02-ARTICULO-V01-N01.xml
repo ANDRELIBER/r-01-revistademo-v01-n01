@@ -74,7 +74,7 @@
     <permissions>
       <copyright-year>2026</copyright-year>
       <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <license-p>CC BY-NC-SA</license-p>
+        <license-p>CC BY-NC-SA 4.0</license-p>
       </license>
     </permissions>
     <abstract xml:lang="es">
@@ -91,10 +91,10 @@
       <kwd>América Latina</kwd>
     </kwd-group>
     <kwd-group xml:lang="en" kwd-group-type="author-generated">
-      <kwd>Digital divide</kwd>
-      <kwd>Higher education</kwd>
-      <kwd>Inequality</kwd>
-      <kwd>Digital skills</kwd>
+      <kwd>digital divide</kwd>
+      <kwd>higher education</kwd>
+      <kwd>inequality</kwd>
+      <kwd>digital skills</kwd>
       <kwd>Latin America</kwd>
     </kwd-group>
     <custom-meta-group>

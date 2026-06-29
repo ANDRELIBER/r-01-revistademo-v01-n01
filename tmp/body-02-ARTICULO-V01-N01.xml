@@ -14,12 +14,12 @@
 <sec id="la-brecha-digital-en-la-educación-superior-latinoamericana">
   <title>La brecha digital en la educación superior latinoamericana</title>
   <p>En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio <xref ref-type="bibr" rid="bib-2566-CEPAL2021">2566-CEPAL2021</xref>. La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso —calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio— varían enormemente según el origen socioeconómico del estudiante.</p>
-  <p>Van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>, <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref> mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.</p>
+  <p>Van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.</p>
 </sec>
 <sec id="metodología">
   <title>Metodología</title>
   <p>Se diseñó un estudio de métodos mixtos con un componente cuantitativo principal y un componente cualitativo complementario. La muestra cuantitativa incluyó 1.247 estudiantes de grado: 623 de la Facultad de Ciencias Sociales de la UBA y 624 de la Facultad de Ciencias Políticas y Sociales de la UNAM, seleccionados mediante muestreo estratificado por carrera y año de cursada durante el segundo semestre de 2022.</p>
-  <p>Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>, <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>, 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.</p>
+  <p>Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>, 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.</p>
 </sec>
 <sec id="condiciones-de-acceso-material">
   <title>Condiciones de acceso material</title>
@@ -95,7 +95,7 @@
   <boxed-text id="Figura1">
     <boxed-text id="figura1">
       <fig>
-        <caption><p>Elaboración propia.</p></caption>
+        <caption><p>Fuente: elaboración propia.</p></caption>
         <graphic mimetype="image" mime-subtype="png" xlink:href="media/figura1.png" />
       </fig>
     </boxed-text>
@@ -118,43 +118,46 @@
   <p>Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de la desigualdad digital en la educación superior latinoamericana. Los datos muestran que, incluso en universidades públicas con políticas activas de inclusión, las condiciones de acceso digital de los estudiantes reproducen las desigualdades socioeconómicas de origen y se traducen en disparidades académicas mensurables.</p>
   <p>Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.</p>
 </sec>
+<sec id="apéndice">
+  <title>Apéndice</title>
+</sec>
 <sec id="artículo-de-prueba-para-verificar-que-el-parser-de-gbpublisher-reconoce-todos-los-formatos-de-cita-pandoc-y-que-el-filtro-lua-preserva-el-modo-correcto-en-el-jats-canónico">
   <title>Artículo de prueba para verificar que el parser de gbpublisher reconoce todos los formatos de cita Pandoc y que el filtro Lua preserva el modo correcto en el JATS canónico</title>
-  <sec id="formato-1-cita-básica-normal">
-    <title>Formato 1: cita básica — normal</title>
-    <p>La transformación digital impacta en múltiples dimensiones organizacionales <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>. Este formato ya funcionaba antes del fix y sirve como control.</p>
-  </sec>
-  <sec id="formato-2-supresión-de-autor--key">
-    <title>Formato 2: supresión de autor <monospace>[-@key]</monospace></title>
-    <p>Como señala van Dijk <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>, la transformación digital no debe confundirse con la simple digitalización de procesos. Hargittai <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">2565-HARGITTAI2002</xref> aborda esta distinción en el contexto logístico argentino.</p>
-  </sec>
-  <sec id="formato-3-cita-con-localizador-de-página">
-    <title>Formato 3: cita con localizador de página</title>
-    <p>El fenómeno ha sido estudiado en profundidad <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>. También se han analizado las competencias necesarias <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>.</p>
-  </sec>
-  <sec id="formato-4-supresión-de-autor-con-localizador--key-p.-n">
-    <title>Formato 4: supresión de autor con localizador <monospace>[-@key, p. N]</monospace></title>
-    <p>Van Deursen <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> clasifica los desafíos en tres categorías. Van Deursen <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> analiza el impacto en la actividad contable.</p>
-  </sec>
-  <sec id="formato-5-prefijo-textual-ver-key">
-    <title>Formato 5: prefijo textual <monospace>[ver @key]</monospace></title>
-    <p>Para un análisis detallado del contexto regional <xref ref-type="bibr" rid="bib-2566-CEPAL2021">2566-CEPAL2021</xref>. Este formato requiere que el parser encuentre el <monospace>@</monospace> dentro del bloque aunque no sea el primer carácter.</p>
-  </sec>
-  <sec id="formato-6-múltiples-citas-en-un-bloque">
-    <title>Formato 6: múltiples citas en un bloque</title>
-    <p>Diversos autores han abordado la cuestión desde perspectivas complementarias <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">2565-HARGITTAI2002</xref>, <xref ref-type="bibr" rid="bib-2562-WARSCHAUER2004">2562-WARSCHAUER2004</xref>. Este formato ya funcionaba antes del fix.</p>
-  </sec>
-  <sec id="formato-7-múltiples-con-supresión-parcial">
-    <title>Formato 7: múltiples con supresión parcial</title>
-    <p>Van Dijk y van Deursen <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>, <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.</p>
-  </sec>
-  <sec id="formato-8-prefijo-textual-con-múltiples-citas">
-    <title>Formato 8: prefijo textual con múltiples citas</title>
-    <p>Las estadísticas provinciales disponibles <xref ref-type="bibr" rid="bib-2566-CEPAL2021">2566-CEPAL2021</xref>, <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">2565-HARGITTAI2002</xref> ofrecen un marco comparativo útil.</p>
-  </sec>
-  <sec id="formato-9-combinaciones-mixtas">
-    <title>Formato 9: combinaciones mixtas</title>
-    <p>La literatura reciente <xref ref-type="bibr" rid="bib-2562-WARSCHAUER2004">2562-WARSCHAUER2004</xref>, <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>, <xref ref-type="bibr" rid="bib-2566-CEPAL2021">2566-CEPAL2021</xref> muestra convergencia en los hallazgos principales. Van Deursen <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> anticipa varios de estos resultados desde el campo contable.</p>
-  </sec>
+</sec>
+<sec id="formato-1-cita-básica-normal">
+  <title>Formato 1: cita básica — normal</title>
+  <p>La transformación digital impacta en múltiples dimensiones organizacionales <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>. Este formato ya funcionaba antes del fix y sirve como control.</p>
+</sec>
+<sec id="formato-2-supresión-de-autor--key">
+  <title>Formato 2: supresión de autor <monospace>[-@key]</monospace></title>
+  <p>Como señala van Dijk <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>, la transformación digital no debe confundirse con la simple digitalización de procesos. Hargittai <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">2565-HARGITTAI2002</xref> aborda esta distinción en el contexto logístico argentino.</p>
+</sec>
+<sec id="formato-3-cita-con-localizador-de-página">
+  <title>Formato 3: cita con localizador de página</title>
+  <p>El fenómeno ha sido estudiado en profundidad <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>. También se han analizado las competencias necesarias <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref>.</p>
+</sec>
+<sec id="formato-4-supresión-de-autor-con-localizador--key-p.-n">
+  <title>Formato 4: supresión de autor con localizador <monospace>[-@key, p. N]</monospace></title>
+  <p>Van Deursen <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> clasifica los desafíos en tres categorías. Van Deursen <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> analiza el impacto en la actividad contable.</p>
+</sec>
+<sec id="formato-5-prefijo-textual-ver-key">
+  <title>Formato 5: prefijo textual <monospace>[ver @key]</monospace></title>
+  <p>Para un análisis detallado del contexto regional <xref ref-type="bibr" rid="bib-2566-CEPAL2021">2566-CEPAL2021</xref>. Este formato requiere que el parser encuentre el <monospace>@</monospace> dentro del bloque aunque no sea el primer carácter.</p>
+</sec>
+<sec id="formato-6-múltiples-citas-en-un-bloque">
+  <title>Formato 6: múltiples citas en un bloque</title>
+  <p>Diversos autores han abordado la cuestión desde perspectivas complementarias <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">2565-HARGITTAI2002</xref>, <xref ref-type="bibr" rid="bib-2562-WARSCHAUER2004">2562-WARSCHAUER2004</xref>. Este formato ya funcionaba antes del fix.</p>
+</sec>
+<sec id="formato-7-múltiples-con-supresión-parcial">
+  <title>Formato 7: múltiples con supresión parcial</title>
+  <p>Hargittai y van Deursen <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">2565-HARGITTAI2002</xref>, <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.</p>
+</sec>
+<sec id="formato-8-prefijo-textual-con-múltiples-citas">
+  <title>Formato 8: prefijo textual con múltiples citas</title>
+  <p>Las estadísticas provinciales disponibles <xref ref-type="bibr" rid="bib-2566-CEPAL2021">2566-CEPAL2021</xref>, <xref ref-type="bibr" rid="bib-2565-HARGITTAI2002">2565-HARGITTAI2002</xref> ofrecen un marco comparativo útil.</p>
+</sec>
+<sec id="formato-9-combinaciones-mixtas">
+  <title>Formato 9: combinaciones mixtas</title>
+  <p>La literatura reciente <xref ref-type="bibr" rid="bib-2562-WARSCHAUER2004">2562-WARSCHAUER2004</xref>, <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">2563-VANDIJK2020</xref>, <xref ref-type="bibr" rid="bib-2566-CEPAL2021">2566-CEPAL2021</xref> muestra convergencia en los hallazgos principales. Van Deursen <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">2564-VANDEURSEN2019</xref> anticipa varios de estos resultados desde el campo contable.</p>
 </sec>
 </body>

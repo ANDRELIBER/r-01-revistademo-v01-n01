@@ -25,14 +25,18 @@
       <affiliationsList>
          <affiliationName affiliationId="1">Departamento de Ciencias de Datos y Tecnología Social , Instituto de Estudios sobre Conectividad y Desarrollo Latinoamericano</affiliationName>
       </affiliationsList>
-      <abstract language="spa">El presente artículo editorial examina críticamente el impacto de la pandemia de COVID-19 como un acelerador involuntario y asincrónico de la transformación tecnológica en América Latina. Se analiza cómo la migración perentoria hacia plataformas virtuales en los sectores educativo, administrativo y sanitario no solo visibilizó, sino que profundizó las fracturas estructurales y las asimetrías socioeconómicas preexistentes en el tejido social de la región. El texto aborda un diagnóstico dicotómico: por un lado, reconoce la expansión cuantitativa de la conectividad digital y el aumento en las tasas de penetración de Internet en el escenario pospandemia; por otro lado, denuncia la persistencia de la denominada "brecha digital de segundo nivel". Este fenómeno se manifiesta en las limitaciones materiales de acceso (dispositivos inadecuados, conexiones móviles restrictivas) y en la carencia de competencias digitales básicas en los sectores de menores ingresos, donde el costo de la banda ancha fija llega a representar, según datos de la CEPAL, un prohibitivo 14% del ingreso mensual. El argumento central postula que la digitalización desvinculada de políticas públicas integrales e interseccionales —que articulen simultáneamente la infraestructura, la formación y el diseño institucional— actúa como un vector que reproduce y amplifica las desigualdades históricas de género, etnia, edad y territorio. Finalmente, se introduce la estructura del número actual de la revista, el cual reúne contribuciones académicas que abordan esta problemática bajo la premisa de que la transformación digital no puede ser aislada de sus condiciones materiales y simbólicas de despliegue, promoviendo así un debate urgente frente al determinismo tecnológico.</abstract>
+      <abstract language="spa">Este artículo editorial examina el impacto de la pandemia de COVID-19 como acelerador de la transformación tecnológica en América Latina, analizando cómo la migración virtual profundizó las asimetrías socioeconómicas preexistentes. El texto presenta un diagnóstico dicotómico: reconoce la expansión de la conectividad pospandemia, pero denuncia la persistencia de una "brecha digital de segundo nivel", caracterizada por limitaciones de acceso material y falta de competencias digitales en sectores vulnerables. Se postula que la digitalización sin políticas públicas integrales actúa como un vector que reproduce desigualdades históricas de género, etnia y territorio. Finalmente, se introduce este número de la revista, cuyas contribuciones abordan la problemática bajo la premisa de que la transformación digital no debe aislarse de sus condiciones materiales.</abstract>
       <fullTextUrl format="text/html">https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/</fullTextUrl>
       <keywords language="spa">
-         <keyword>Brecha digital de segundo nivel</keyword>
-         <keyword>América Latina</keyword>
-         <keyword>Políticas públicas</keyword>
-         <keyword>Desigualdad estructural</keyword>
-         <keyword>Transformación digital</keyword>
+         <keyword>pandemia de covid-19</keyword>
+         <keyword>transformación tecnológica</keyword>
+         <keyword>américa latina</keyword>
+         <keyword>migración virtual</keyword>
+         <keyword>asimetrías socioeconómicas</keyword>
+         <keyword>brecha digital de segundo nivel</keyword>
+         <keyword>competencias digitales</keyword>
+         <keyword>políticas públicas</keyword>
+         <keyword>desigualdades históricas</keyword>
       </keywords>
    </record>
 </records>

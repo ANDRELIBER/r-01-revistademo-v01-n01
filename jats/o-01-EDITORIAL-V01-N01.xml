@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260626203429</doi_batch_id>
-      <timestamp>20260626203429</timestamp>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260629034038</doi_batch_id>
+      <timestamp>20260629034038</timestamp>
       <depositor>
          <depositor_name>Editorial Universidad de San Telmo</depositor_name>
          <email_address>hola@adl.org</email_address>
@@ -48,10 +48,10 @@
                </person_name>
             </contributors>
             <jats:abstract>
-               <jats:p xml:lang="es">El presente artículo editorial examina críticamente el impacto de la pandemia de COVID-19 como un acelerador involuntario y asincrónico de la transformación tecnológica en América Latina. Se analiza cómo la migración perentoria hacia plataformas virtuales en los sectores educativo, administrativo y sanitario no solo visibilizó, sino que profundizó las fracturas estructurales y las asimetrías socioeconómicas preexistentes en el tejido social de la región. El texto aborda un diagnóstico dicotómico: por un lado, reconoce la expansión cuantitativa de la conectividad digital y el aumento en las tasas de penetración de Internet en el escenario pospandemia; por otro lado, denuncia la persistencia de la denominada "brecha digital de segundo nivel". Este fenómeno se manifiesta en las limitaciones materiales de acceso (dispositivos inadecuados, conexiones móviles restrictivas) y en la carencia de competencias digitales básicas en los sectores de menores ingresos, donde el costo de la banda ancha fija llega a representar, según datos de la CEPAL, un prohibitivo 14% del ingreso mensual. El argumento central postula que la digitalización desvinculada de políticas públicas integrales e interseccionales —que articulen simultáneamente la infraestructura, la formación y el diseño institucional— actúa como un vector que reproduce y amplifica las desigualdades históricas de género, etnia, edad y territorio. Finalmente, se introduce la estructura del número actual de la revista, el cual reúne contribuciones académicas que abordan esta problemática bajo la premisa de que la transformación digital no puede ser aislada de sus condiciones materiales y simbólicas de despliegue, promoviendo así un debate urgente frente al determinismo tecnológico.</jats:p>
+               <jats:p xml:lang="es">Este artículo editorial examina el impacto de la pandemia de COVID-19 como acelerador de la transformación tecnológica en América Latina, analizando cómo la migración virtual profundizó las asimetrías socioeconómicas preexistentes. El texto presenta un diagnóstico dicotómico: reconoce la expansión de la conectividad pospandemia, pero denuncia la persistencia de una "brecha digital de segundo nivel", caracterizada por limitaciones de acceso material y falta de competencias digitales en sectores vulnerables. Se postula que la digitalización sin políticas públicas integrales actúa como un vector que reproduce desigualdades históricas de género, etnia y territorio. Finalmente, se introduce este número de la revista, cuyas contribuciones abordan la problemática bajo la premisa de que la transformación digital no debe aislarse de sus condiciones materiales.</jats:p>
             </jats:abstract>
             <jats:abstract>
-               <jats:p xml:lang="en">This editorial article critically examines the impact of the COVID-19 pandemic as an involuntary and asynchronous catalyst for technological transformation in Latin America. It analyzes how the peremptory migration toward virtual platforms within the educational, administrative, and healthcare sectors not only exposed but also deepened pre-existing structural fractures and socioeconomic asymmetries within the region's social fabric. The text presents a dichotomous diagnosis: on one hand, it acknowledges the quantitative expansion of digital connectivity and the rise in Internet penetration rates in the post-pandemic landscape; on the other hand, it denounces the persistence of the so-called "second-level digital divide." This phenomenon manifests through material constraints in access (inadequate devices, restrictive mobile data plans) and a deficiency in core digital skills among lower-income sectors, where fixed broadband costs average—according to ECLAC data—a prohibitive 14% of monthly income. The central argument posits that digitalization detached from comprehensive, intersectional public policies—which simultaneously address infrastructure, digital literacy, and institutional design—acts as a vector that reproduces and amplifies historical inequalities rooted in gender, ethnicity, age, and geography. Finally, this text introduces the framework of the current journal issue, which compiles academic contributions addressing this multidimensional problem. These works share the fundamental premise that digital transformation cannot be isolated from the material and symbolic conditions of its deployment, thereby fostering an urgent and necessary debate against technological determinism.</jats:p>
+               <jats:p xml:lang="en">This editorial examines the impact of the COVID-19 pandemic as an accelerator of technological transformation in Latin America, analyzing how virtual migration deepened pre-existing socioeconomic asymmetries. The text presents a dichotomous diagnosis: it recognizes post-pandemic connectivity expansion while denouncing the persistence of a "second-level digital divide," characterized by material access limitations and a lack of digital skills in vulnerable sectors. It argues that digitalization without comprehensive, intersectional public policies acts as a vector that reproduces historical inequalities of gender, ethnicity, and territory. Finally, this journal issue is introduced, featuring contributions that address the issue under the premise that digital transformation cannot be isolated from its material conditions.</jats:p>
             </jats:abstract>
             <publication_date media_type="online">
                <month>06</month>
@@ -62,6 +62,10 @@
                <first_page>1</first_page>
                <last_page>7</last_page>
             </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by-nc-sa/4.0/</license_ref>
+            </program>
             <doi_data>
                <doi>10.1787/7a127615-es</doi>
                <resource content_version="vor" mime_type="text/html">https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/</resource>
@@ -70,7 +74,7 @@
                <citation key="bib-2566-CEPAL2021">
                   <unstructured_citation>CEPAL (
       2021
-     ). Tecnologías digitales para un nuevo futuro. .</unstructured_citation>
+     ). Tecnologías digitales para un nuevo futuro. CEPAL.</unstructured_citation>
                </citation>
             </citation_list>
          </journal_article>

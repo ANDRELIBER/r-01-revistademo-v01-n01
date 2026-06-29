@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260626203654</doi_batch_id>
-      <timestamp>20260626203654</timestamp>
+      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260629034140</doi_batch_id>
+      <timestamp>20260629034140</timestamp>
       <depositor>
          <depositor_name>Editorial Universidad de San Telmo</depositor_name>
          <email_address>hola@adl.org</email_address>
@@ -37,7 +37,7 @@
                           publication_type="full_text"
                           reference_distribution_opts="any">
             <titles>
-               <title>Reseña bibliográfica</title>
+               <title>Reseña de libro</title>
                <original_language_title language="en">Book Review</original_language_title>
             </titles>
             <contributors>
@@ -47,6 +47,12 @@
                   <ORCID authenticated="true">https://orcid.org/0009-0003-9648-5013</ORCID>
                </person_name>
             </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">Este artículo presenta una reseña crítica del libro A elite do atraso: da escravidão à Lava Jato (2017), del sociólogo brasileño Jessé Souza. El texto examina la tesis central de la obra, la cual desplaza la noción tradicional de patrimonialismo como causa del atraso nacional para ubicar a la esclavitud y su legado como la verdadera matriz de la desigualdad en Brasil. Se analiza la revisión crítica que Souza realiza de pensadores canónicos como Freyre, Buarque de Holanda y Faoro, así como la introducción de la categoría sociológica de "ralé" para explicar la exclusión estructural. Finalmente, la reseña sopesa el valor del libro como una intervención intelectual urgente en el panorama político latinoamericano contemporáneo, señalando tanto sus aciertos polémicos como sus simplificaciones teóricas.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">This article presents a critical review of the book A elite do atraso: da escravidão à Lava Jato (2017), by Brazilian sociologist Jessé Souza. The text examines the core thesis of the work, which shifts the traditional notion of patrimonialism as the root of national backwardness to place slavery and its legacy as the true matrix of inequality in Brazil. It analyzes Souza's critical revision of canonical thinkers such as Freyre, Buarque de Holanda, and Faoro, alongside the introduction of the sociological category of the "ralé" (underclass) to explain structural exclusion. Finally, the review weighs the value of the book as an urgent intellectual intervention within the contemporary Latin American political landscape, noting both its polemical achievements and its theoretical simplifications.</jats:p>
+            </jats:abstract>
             <publication_date media_type="online">
                <month>06</month>
                <day>26</day>
@@ -56,6 +62,10 @@
                <first_page>1</first_page>
                <last_page>3</last_page>
             </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by-nc-sa/4.0/</license_ref>
+            </program>
             <doi_data>
                <doi>10.1787/7a127615-es</doi>
                <resource content_version="vor" mime_type="text/html">https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/</resource>

@@ -1,7 +1,8 @@
+
 ::: {.book-review}
 
 
-> Souza, Jessé. *A elite do atraso: da escravidão à Lava Jato*. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
+> Souza, Jessé. A elite do atraso: da escravidão à Lava Jato. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
 
 
 ## Presentación y contexto

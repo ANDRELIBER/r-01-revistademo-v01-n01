@@ -176,11 +176,12 @@
       <person-group person-group-type="author">
         <name>
           <surname>Warschauer</surname>
-          <given-names>M.</given-names>
+          <given-names>Mark</given-names>
         </name>
       </person-group>
       <source>Technology and Social Inclusion: Rethinking the Digital Divide</source>
       <publisher-name>The MIT Press</publisher-name>
+      <publisher-loc>Cambridge, MA</publisher-loc>
       <year>2004</year>
     </element-citation>
   </ref>
@@ -189,7 +190,7 @@
       <person-group person-group-type="author">
         <name>
           <surname>van Dijk</surname>
-          <given-names>J. A. G. M.</given-names>
+          <given-names>Jan AGM</given-names>
         </name>
       </person-group>
       <source>The Digital Divide</source>
@@ -202,7 +203,11 @@
       <person-group person-group-type="author">
         <name>
           <surname>van Deursen</surname>
-          <given-names>Alexander JAM y van Dijk, JA</given-names>
+          <given-names>Alexander JAM</given-names>
+        </name>
+        <name>
+          <surname>van Dijk</surname>
+          <given-names>Jan AGM</given-names>
         </name>
       </person-group>
       <article-title>The first-level digital divide shifts from inequalities in physical access to inequalities in material access</article-title>
@@ -234,14 +239,31 @@
     </element-citation>
   </ref>
   <ref id="2566-CEPAL2021">
-    <element-citation publication-type="other">
+    <element-citation publication-type="report">
       <person-group person-group-type="author">
         <name>
           <surname>CEPAL</surname>
         </name>
       </person-group>
       <source>Tecnologías digitales para un nuevo futuro</source>
+      <publisher-name>CEPAL</publisher-name>
       <year>2021</year>
+      <institution>NU. CEPAL</institution>
+    </element-citation>
+  </ref>
+  <ref id="2567-SOUZA2017">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Souza</surname>
+          <given-names>Jessé</given-names>
+        </name>
+      </person-group>
+      <source>A elite do atraso: da escravidão à Lava Jato</source>
+      <publisher-name>Leya</publisher-name>
+      <publisher-loc>São Paulo</publisher-loc>
+      <year>2017</year>
+      <isbn>978-85-441-0408-1</isbn>
     </element-citation>
   </ref>
 </ref-list>

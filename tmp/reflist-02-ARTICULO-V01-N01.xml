@@ -21,11 +21,12 @@
       <person-group person-group-type="author">
         <name>
           <surname>Warschauer</surname>
-          <given-names>M.</given-names>
+          <given-names>Mark</given-names>
         </name>
       </person-group>
       <source>Technology and Social Inclusion: Rethinking the Digital Divide</source>
       <publisher-name>The MIT Press</publisher-name>
+      <publisher-loc>Cambridge, MA</publisher-loc>
       <year>2004</year>
     </element-citation>
   </ref>
@@ -34,7 +35,7 @@
       <person-group person-group-type="author">
         <name>
           <surname>van Dijk</surname>
-          <given-names>J. A. G. M.</given-names>
+          <given-names>Jan AGM</given-names>
         </name>
       </person-group>
       <source>The Digital Divide</source>
@@ -43,33 +44,39 @@
     </element-citation>
   </ref>
   <ref id="bib-2566-CEPAL2021">
-    <element-citation publication-type="other">
+    <element-citation publication-type="report">
       <person-group person-group-type="author">
         <name>
           <surname>CEPAL</surname>
         </name>
       </person-group>
       <source>Tecnologías digitales para un nuevo futuro</source>
+      <publisher-name>CEPAL</publisher-name>
       <year>2021</year>
+      <institution>NU. CEPAL</institution>
     </element-citation>
   </ref>
   <ref id="bib-2564-VANDEURSEN2019">
     <element-citation publication-type="journal">
       <person-group person-group-type="author">
         <name>
-          <surname>Van Deursen</surname>
+          <surname>van Deursen</surname>
           <given-names>Alexander JAM</given-names>
         </name>
+        <name>
+          <surname>van Dijk</surname>
+          <given-names>Jan AGM</given-names>
+        </name>
       </person-group>
-      <article-title>Collateral benefits of Internet use: Explaining the diverse outcomes of engaging with the Internet</article-title>
+      <article-title>The first-level digital divide shifts from inequalities in physical access to inequalities in material access</article-title>
       <source>New Media and Society</source>
-      <year>2017</year>
+      <year>2018</year>
       <volume>21</volume>
       <issue>2</issue>
-      <fpage>2333</fpage>
-      <lpage>2351</lpage>
+      <fpage>354</fpage>
+      <lpage>375</lpage>
       <issn>1461-4448</issn>
-      <pub-id pub-id-type="doi">10.1177/1461444817715282</pub-id>
+      <pub-id pub-id-type="doi">10.1177/1461444818797082</pub-id>
     </element-citation>
   </ref>
   <!-- ADVERTENCIA: citekey 'key' no encontrado en el .bib -->

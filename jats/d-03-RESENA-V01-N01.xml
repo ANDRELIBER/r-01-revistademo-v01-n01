@@ -14,7 +14,7 @@
       <endPage>3</endPage>
       <doi>10.1787/7a127615-es</doi>
       <documentType>book review</documentType>
-      <title language="spa">Reseña bibliográfica</title>
+      <title language="spa">Reseña de libro</title>
       <authors>
          <author>
             <name>Liberatore, Andrea Esther</name>
@@ -25,6 +25,15 @@
       <affiliationsList>
          <affiliationName affiliationId="1">Departamento de Ciencias de Datos y Tecnología Social , Instituto de Estudios sobre Conectividad y Desarrollo Latinoamericano</affiliationName>
       </affiliationsList>
+      <abstract language="spa">Este artículo presenta una reseña crítica del libro A elite do atraso: da escravidão à Lava Jato (2017), del sociólogo brasileño Jessé Souza. El texto examina la tesis central de la obra, la cual desplaza la noción tradicional de patrimonialismo como causa del atraso nacional para ubicar a la esclavitud y su legado como la verdadera matriz de la desigualdad en Brasil. Se analiza la revisión crítica que Souza realiza de pensadores canónicos como Freyre, Buarque de Holanda y Faoro, así como la introducción de la categoría sociológica de "ralé" para explicar la exclusión estructural. Finalmente, la reseña sopesa el valor del libro como una intervención intelectual urgente en el panorama político latinoamericano contemporáneo, señalando tanto sus aciertos polémicos como sus simplificaciones teóricas.</abstract>
       <fullTextUrl format="text/html">https://www.clacso.org/ciencia-tecnologia-y-sociedad-en-america-latina/</fullTextUrl>
+      <keywords language="spa">
+         <keyword>pensamiento social brasileño</keyword>
+         <keyword>esclavitud</keyword>
+         <keyword>desigualdad social</keyword>
+         <keyword>elites</keyword>
+         <keyword>sociología latinoamericana</keyword>
+         <keyword>reseña de libros</keyword>
+      </keywords>
    </record>
 </records>

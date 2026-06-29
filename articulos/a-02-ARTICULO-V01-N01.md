@@ -1,7 +1,7 @@
+
 ::: {.intro}
 
 ## Introducción
-
 
 La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [@2565-HARGITTAI2002; @2562-WARSCHAUER2004].
 
@@ -11,7 +11,10 @@ El presente estudio analiza la relación entre las condiciones de acceso digital
 
 :::
 
+
+
 ::: {.methods}
+
 
 ## De la brecha de acceso a la desigualdad digital
 
@@ -25,22 +28,27 @@ Más recientemente, van Dijk [-@2563-VANDIJK2020] consolidó un modelo teórico 
 
 En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio [@2566-CEPAL2021]. La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso ---calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio--- varían enormemente según el origen socioeconómico del estudiante.
 
-Van Deursen y van Dijk [-@2564-VANDEURSEN2019; -@2563-VANDIJK2020] mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
+Van Deursen y van Dijk [-@2564-VANDEURSEN2019] mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
 
 ## Metodología
 
 Se diseñó un estudio de métodos mixtos con un componente cuantitativo principal y un componente cualitativo complementario. La muestra cuantitativa incluyó 1.247 estudiantes de grado: 623 de la Facultad de Ciencias Sociales de la UBA y 624 de la Facultad de Ciencias Políticas y Sociales de la UNAM, seleccionados mediante muestreo estratificado por carrera y año de cursada durante el segundo semestre de 2022.
 
-Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk [-@2563-VANDIJK2020]: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk [-@2564-VANDEURSEN2019; -@2563-VANDIJK2020], 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.
+Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk [-@2563-VANDIJK2020]: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk [-@2564-VANDEURSEN2019], 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.
 
 :::
 
+
 ::: {.results}
+
 ## Condiciones de acceso material
 
 La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.
 
+
 ::: {.table #TablaNumero1}
+
+
 
   -------------------------------------- ------------ ------------ ------------- -------------
   **Indicador**                          **UBA Q1**   **UBA Q5**   **UNAM Q1**   **UNAM Q5**
@@ -59,7 +67,9 @@ La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas
   -------------------------------------- ------------ ------------ ------------- -------------
 
 **Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes). *Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.*
+
 :::
+
 
 Los datos revelan una pauta consistente: mientras que los estudiantes del quintil más alto presentan condiciones de acceso material prácticamente universales en ambas universidades, los del quintil más bajo enfrentan restricciones severas en todos los indicadores. La brecha es particularmente pronunciada en la disponibilidad de espacio privado de estudio y en la velocidad de conexión, dos factores que la literatura identifica como determinantes para el aprovechamiento académico de las herramientas digitales.
 
@@ -72,14 +82,19 @@ La Figura 1 presenta el modelo de mediación estimado con las cargas estandariza
 
 :::{.figure #Figura1}
 
-:::{.figure #figura1}
-![Elaboración propia.](media/figura1.png)
-:::
 
+:::{.figure #figura1}
+
+
+![Fuente: elaboración propia.](media/figura1.png)
+
+:::
 
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
+
 :::
+
 
 ## Experiencias de la brecha: evidencia cualitativa
 
@@ -92,6 +107,7 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 
 ::: {.discussion}
 
+
 ## Discusión
 
 Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk [-@2563-VANDIJK2020] para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
@@ -102,9 +118,11 @@ La comparación entre la UBA y la UNAM muestra pautas notablemente similares en 
 
 :::
 
-::: {.conclusions}
-## Conclusiones
 
+::: {.conclusions}
+
+
+## Conclusiones
 
 Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de la desigualdad digital en la educación superior latinoamericana. Los datos muestran que, incluso en universidades públicas con políticas activas de inclusión, las condiciones de acceso digital de los estudiantes reproducen las desigualdades socioeconómicas de origen y se traducen en disparidades académicas mensurables.
 
@@ -112,9 +130,12 @@ Las implicancias para la política universitaria son claras: las estrategias de 
 
 :::
 
- - - - - - - - - - - - - - - - - - - - - - - -
 
-# Artículo de prueba para verificar que el parser de gbpublisher reconoce todos los formatos de cita Pandoc y que el filtro Lua preserva el modo correcto en el JATS canónico
+::: {.appendix}
+
+## Apéndice 
+
+## Artículo de prueba para verificar que el parser de gbpublisher reconoce todos los formatos de cita Pandoc y que el filtro Lua preserva el modo correcto en el JATS canónico
 
 ## Formato 1: cita básica — normal
 
@@ -126,11 +147,11 @@ Como señala van Dijk [-@2563-VANDIJK2020], la transformación digital no debe c
 
 ## Formato 3: cita con localizador de página
 
-El fenómeno ha sido estudiado en profundidad [@2564-VANDEURSEN2019, p. 2333-2351]. También se han analizado las competencias necesarias [@2564-VANDEURSEN2019, pp. 2333-2351].
+El fenómeno ha sido estudiado en profundidad [@2564-VANDEURSEN2019, p. 354-375]. También se han analizado las competencias necesarias [@2564-VANDEURSEN2019, pp. 354-375].
 
 ## Formato 4: supresión de autor con localizador `[-@key, p. N]`
 
-Van Deursen [-@2564-VANDEURSEN2019, p. 2333] clasifica los desafíos en tres categorías. Van Deursen [-@2564-VANDEURSEN2019, pp. 2333-2351] analiza el impacto en la actividad contable.
+Van Deursen [-@2564-VANDEURSEN2019, p. 354] clasifica los desafíos en tres categorías. Van Deursen [-@2564-VANDEURSEN2019, pp. 354-375] analiza el impacto en la actividad contable.
 
 ## Formato 5: prefijo textual `[ver @key]`
 
@@ -142,7 +163,7 @@ Diversos autores han abordado la cuestión desde perspectivas complementarias [@
 
 ## Formato 7: múltiples con supresión parcial
 
-Van Dijk y van Deursen [@2563-VANDIJK2020; -@2564-VANDEURSEN2019] coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.
+Hargittai y van Deursen [@2565-HARGITTAI2002; -@2564-VANDEURSEN2019] coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.
 
 ## Formato 8: prefijo textual con múltiples citas
 
@@ -150,4 +171,6 @@ Las estadísticas provinciales disponibles [ver @2566-CEPAL2021; @2565-HARGITTAI
 
 ## Formato 9: combinaciones mixtas
 
-La literatura reciente [@2562-WARSCHAUER2004; @2563-VANDIJK2020; -@2566-CEPAL2021] muestra convergencia en los hallazgos principales. Van Deursen [-@2564-VANDEURSEN2019, p. 2333] anticipa varios de estos resultados desde el campo contable.
+La literatura reciente [@2562-WARSCHAUER2004; @2563-VANDIJK2020; -@2566-CEPAL2021] muestra convergencia en los hallazgos principales. Van Deursen [-@2564-VANDEURSEN2019, p. 354] anticipa varios de estos resultados desde el campo contable.
+
+:::
